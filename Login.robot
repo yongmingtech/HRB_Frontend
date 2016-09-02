@@ -9,9 +9,9 @@ Resource          Library.robot
 
 *** Variables ***
 ${DELAY}          0
-${SERVER}         http://10.32.86.132/login.html    # Backend
-${User_Name}      FC750
-${User_Password}    0929
+${SERVER}         http://192.168.2.71:8020/login.html    # Backend
+${User_Name}      7199
+${User_Password}    0430
 ${Submit_Button}    xpath=//*[@id="tab-content-0"]/div/md-content/form/p[3]/input
 
 *** Keywords ***
