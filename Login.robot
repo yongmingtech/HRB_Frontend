@@ -31,6 +31,7 @@ Submit Credentials
 
 Open Broser and Login automatically
     Open Broser to Login Page
+    Sleep    3
     Input Username
     Input Password
     Submit Credentials
